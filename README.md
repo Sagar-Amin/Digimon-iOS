@@ -1,8 +1,6 @@
 Digimon
 
-1. Description
-
-2. Function
+1. Function
    - CoreData
      fetch, save in storage
    - API Call with networkManager
